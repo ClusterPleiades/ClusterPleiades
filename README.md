@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://play.google.com/store/apps/dev?id=5328728822471795130">
-  <img src="https://user-images.githubusercontent.com/81938036/156928614-a715aa1d-cd61-4b1f-9f8c-ad91481f3f04.png">
+  <img src="https://user-images.githubusercontent.com/81938036/156929157-f9ca69b0-b785-4fcf-adec-97fb8ca747cc.png">
   </a>
   <br><br>
   
