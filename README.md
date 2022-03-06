@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ClusterPleiades
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ClusterPleiades/ClusterPleiades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://play.google.com/store/apps/dev?id=5328728822471795130">
+  <img src="https://user-images.githubusercontent.com/81938036/156921049-08b98951-88e4-4561-8b31-44a134f239a7.png">
+  </a>
+  
+  
+<a href="https://github.com/ClusterPleiades/KittenCare">
+  <img src="https://user-images.githubusercontent.com/81938036/156919918-c1276a5a-65cd-4ee5-ace9-0c316d22074a.png" width="64" height="64">
+</a>
+  
+</div>
