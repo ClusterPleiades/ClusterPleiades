@@ -22,9 +22,9 @@
   <a href="https://github.com/ClusterPleiades/ProfileAdvanced">
     <img src="https://user-images.githubusercontent.com/81938036/150377869-f00727fc-aa8b-4db5-b088-6ff283b83636.png" width="64">
   </a>
-<!--   <a href="https://github.com/ClusterPleiades/Alcyone">
+  <a href="https://github.com/ClusterPleiades/Alcyone">
     <img src="https://user-images.githubusercontent.com/81938036/150636879-f72ab9da-e28e-476a-9e96-a24efbab6833.png" width="64">
-  </a> -->
+  </a>
   <a href="https://github.com/ClusterPleiades/ScheduleNote">
     <img src="https://user-images.githubusercontent.com/81938036/150636503-0c33c696-1f82-453e-9726-1d45ac9bb409.png" width="64">
   </a>
