@@ -31,7 +31,7 @@
   <a href="https://github.com/ClusterPleiades/ScheduleNote">
     <img src="https://user-images.githubusercontent.com/81938036/150636503-0c33c696-1f82-453e-9726-1d45ac9bb409.png" width="64">
   </a>
-  <a href="https://github.com/ClusterPleiades/ScheduleNote">
+  <a href="https://github.com/ClusterPleiades/Note">
     <img src="https://user-images.githubusercontent.com/81938036/187353119-9e222229-cb9f-4b4b-952c-83c4509d42ec.png" width="64">
   </a>
 </div>
