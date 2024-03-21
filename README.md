@@ -25,9 +25,6 @@
   <a href="https://github.com/ClusterPleiades/EnjoyDaegu">
     <img src="https://user-images.githubusercontent.com/81938036/174827242-66d685b7-1921-4989-b601-99af6580447f.png" width="64">
   </a>
-  <a href="https://github.com/ClusterPleiades/Alcyone">
-    <img src="https://user-images.githubusercontent.com/81938036/150636879-f72ab9da-e28e-476a-9e96-a24efbab6833.png" width="64">
-  </a>
   <a href="https://github.com/ClusterPleiades/ScheduleNote">
     <img src="https://user-images.githubusercontent.com/81938036/150636503-0c33c696-1f82-453e-9726-1d45ac9bb409.png" width="64">
   </a>
